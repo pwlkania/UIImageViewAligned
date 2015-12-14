@@ -75,7 +75,12 @@
 
 - (void)setImage:(UIImage *)image
 {
-    [_realImageView setImage:image];
+    if(_realImageView == nil){
+        super.image = image;
+    } else {
+        [_realImageView setImage:image];
+    }
+
     [self setNeedsLayout];
 }
 
