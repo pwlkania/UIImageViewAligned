@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4874EB8B1DD9D9C9004F33CA"
-               BuildableName = "UIImageViewAlignedFramework.framework"
-               BlueprintName = "UIImageViewAlignedFramework iOS"
+               BuildableName = "UIImageViewAligned.framework"
+               BlueprintName = "UIImageViewAligned iOS"
                ReferencedContainer = "container:UIImageViewAlignedFramework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4874EB8B1DD9D9C9004F33CA"
-            BuildableName = "UIImageViewAlignedFramework.framework"
-            BlueprintName = "UIImageViewAlignedFramework iOS"
+            BuildableName = "UIImageViewAligned.framework"
+            BlueprintName = "UIImageViewAligned iOS"
             ReferencedContainer = "container:UIImageViewAlignedFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,8 +64,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4874EB8B1DD9D9C9004F33CA"
-            BuildableName = "UIImageViewAlignedFramework.framework"
-            BlueprintName = "UIImageViewAlignedFramework iOS"
+            BuildableName = "UIImageViewAligned.framework"
+            BlueprintName = "UIImageViewAligned iOS"
             ReferencedContainer = "container:UIImageViewAlignedFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
